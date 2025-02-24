@@ -35,7 +35,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Weather-Data-Analysis.git
+git clone https://github.com/subbuworkspace/Weather-Data-Analysis
 
 Navigate to the project directory:
 
