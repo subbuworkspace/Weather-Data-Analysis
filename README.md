@@ -9,7 +9,7 @@ Features
 
 Data ingestion from CSV/JSON files
 
-Data cleaning and preprocessing
+Data cleaning and preprocessing 
 
 Statistical analysis of weather patterns
 
